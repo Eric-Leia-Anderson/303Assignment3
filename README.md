@@ -1,6 +1,6 @@
 # 303Assignment3
 
-Build and run in visual studio.
+Build and run in visual studio project.
 
 It will ask for you to enter a word to check for palidrome, and let you know if it is. Then it will ask for a state and will tell you the capital.
 
